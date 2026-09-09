@@ -1324,7 +1324,7 @@ p {
 .scroll-indicator {
   position: absolute;
   z-index: 4;
-  bottom: 5px;
+  bottom: 10px;
   left: 50%;
 
   display: flex;
